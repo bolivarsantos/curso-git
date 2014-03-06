@@ -1,0 +1,2 @@
+Domínio absoluto na API Java Web, sólidos conhecimentos em Orientação a Objetos, Herança/ Polimorfismo e uso de padrões de projeto.
+Conhecedor de tecnologias JSF e JSP, Controle de versão e frameworks, JPA e banco de dados.
